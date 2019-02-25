@@ -13,7 +13,7 @@ $conn = mysql_connect("localhost","root","root")
  * using mysqli_connect instead
  */
 
-$databaseHost = '34.200.230.129';
+$databaseHost = '54.161.205.12';
 $databaseName = 'test';
 $databaseUsername = 'root';
 $databasePassword = 'admin';
